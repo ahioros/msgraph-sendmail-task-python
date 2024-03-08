@@ -1,4 +1,8 @@
-﻿# Send mails and task creation with Microsoft Graph & authorized with OAuth 2.0
+﻿# Original project/repo
+
+https://github.com/duonghuuphuc/msgraph-sendmail-python
+
+# Send mails and task creation with Microsoft Graph & authorized with OAuth 2.0
 
 In this repository, I will share a Flask application that authorizes users having either personal Microsoft accounts (Skype, Xbox, Live, and Hotmail) or Microsoft business accounts. The demo application also presents an email composer form to send emails on behalf of the authorized users. And a task creation
 
